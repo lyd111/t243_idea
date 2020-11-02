@@ -9,5 +9,6 @@ package com.liyingdong.git;
 public class Demo {
     public static void main(String[] args) {
         System.out.println("idea git demo111");
+        System.out.println("idea git 23");
     }
 }
